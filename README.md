@@ -12,7 +12,7 @@ This repository provides an easily customizable script for the initial analysis 
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/Image-Dataset-Statistics.git
+git clone https://github.com/janikhohmann/Image-Dataset-Statistics.git
 cd Image-Dataset-Statistics
 pip install -r requirements.txt
 ```
