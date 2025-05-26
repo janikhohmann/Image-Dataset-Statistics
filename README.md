@@ -15,6 +15,7 @@ This repository provides an easily customizable script for the initial analysis 
 git clone https://github.com/yourusername/Image-Dataset-Statistics.git
 cd Image-Dataset-Statistics
 pip install -r requirements.txt
+```
 
 ## Output
 The tool generates:
